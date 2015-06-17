@@ -249,7 +249,7 @@
 	  ("Host" . "music.163.com")
 	  ("Content-Type" . "application/x-www-form-urlencoded")
 	  ("Connection" . "keep-alive")
-	  ("Cookie"."appver=0.1; os=osx; MUSIC_U=cae7c796dabc592b9dda99c5ed2143b01d892780e2aa6e85b2fdc61cdc54990e41015b6047c4c225d071505bec66b8f1aac657ed899af2238bafcdfe5ad2b092; deviceid=36A3403F-91C1-55F7-9150-58200311FD19; __csrf=5053df56006b887605b30a09f4fca786; usertrack=ezq0aVR3W/2qvlGoDlquAg==; __remember_me=true; osver=%E7%89%88%E6%9C%AC%2010.10.3%EF%BC%88%E7%89%88%E5%8F%B7%2014D136%EF%BC%89;")
+	  ("Cookie"."*****") ;; 自己的cookie
 	  ("Accept" . "*/*")
 	  ("User-Agent" . "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.76.4 (KHTML, like Gecko) Version/7.0.4 Safari/537.76.4")
 	  ("Referer" . "http://music.163.com/")
